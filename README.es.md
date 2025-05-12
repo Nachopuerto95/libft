@@ -99,18 +99,20 @@ La librería está escrita en __lenguaje C__ y necesita el compilador `gcc`, jun
 Para compilar la librería, ve al directorio correspondiente y ejecuta:
 
 Para las funciones __básicas__:
-```
+
+```shell
 $ make
 ```
 
 Para las funciones __bonus__ :
-```
+
+```shell
 $ make bonus
 ```
 
 Limpiar binarios (.o) y ejecutable files (.a)
 
-```
+```shell
 $ make fclean
 ```
 
@@ -124,6 +126,7 @@ $(NAME): $(OBJ)
 	$(CC) $(CFLAGS) $(OBJ)  -L ./libft -lft -o $(NAME)
 ```
 después impórtala en tu código:
-```
+
+```c
 #include "libft.h"
 ```
