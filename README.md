@@ -17,6 +17,7 @@
 
 ```html
 	🚀 We will solidify our knowledge of C usage and memory, both pointer usage and dynamic memory.
+	in bonus part, we will introduce ourselves to linked lists usage
 ```
 > [!NOTE]
 > Because of 42 School norm requirements:
