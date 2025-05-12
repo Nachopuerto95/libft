@@ -18,16 +18,9 @@
 ```html
 	🚀 We will solidify our knowledge of memory, both pointer usage and dynamic memory.
 ```
-[!NOTE]
->Because of 42 School norm requirements:
+> [!NOTE]
+> Because of 42 School norm requirements:
 > * Each function can't have more than 25 lines of code.
 > * All variables must be declared and aligned at the top of each function.
 > * Project should be created just with allowed functions.
-<br>
-
-> [!NOTE]  
-> Debido a los requisitos de la norma de la Escuela 42:
-> * Cada función no puede tener más de 25 líneas de código.
-> * Todas las variables deben ser declaradas y alineadas en la parte superior de cada función.
-> * El proyecto debe ser creado solo con las funciones permitidas.
 <br>
