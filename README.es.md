@@ -8,14 +8,15 @@
  </a>
 </p>
 
-# Push Swap (42cursus)
+# Libft (42cursus)
 
 <img src="https://github.com/Nachopuerto95/multilang/blob/main/42-Madrid%20-%20Edited.jpg">
 
 ## 📜 Acerca del Proyecto
+> Como primer proyecto del cursus, sirve para conocer diversas funciones y como están diseñadas internamente.
 
 ```html
-	🚀 Para este proyecto, debemos aprender sobre el uso de pilas (stacks) y algoritmos de ordenamiento.
+	🚀 Asentaremos nuestros conocimientos sobre la memoria, tanto el uso de punteros como el de memoria dinámica
 ```
 
 > [!NOTE]  
