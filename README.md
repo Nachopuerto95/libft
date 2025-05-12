@@ -8,7 +8,7 @@
  </a>
 </p>
 
-# Libft (42cursus)
+# 📚 Libft (42cursus)
 
 <img src="https://github.com/Nachopuerto95/multilang/blob/main/42-Madrid%20-%20Edited.jpg">
 
@@ -26,11 +26,11 @@
 > * Project should be created just with allowed functions.
 <br>
 
-## Description
+## 📖 Description
 
 This project is a __C library__ of useful functions that are allowed to be used in future __School 42 cursus__ projects. With access to this library, the coding proccess in incoming projects will be more effective. The aim of rewrite this functions is to get a better understanding of them, and get a whide range of utilities for the next projects.
 
-## Index
+## 📚 Index
 ### Functions from `<ctype.h>` library
 * [`ft_isascii`](https://github.com/Nachopuerto95/libft/blob/main/ft_isascii.c) - Test a character to see if it's a 7-bit ASCII character.
 * [`ft_isalpha`](https://github.com/Nachopuerto95/libft/blob/main/ft_isalpha.c) - Test a character to see if it's alphabetic.
@@ -89,7 +89,7 @@ This project is a __C library__ of useful functions that are allowed to be used 
 ## Requirements
 The library is written in __C language__ and needs the `gcc` compiler, with `<stdlib.h>` and `<unistd.h>` standard libraries to run.
 
-## Instructions
+## 🛠️ Instructions
 
 ### 1. Compiling the library
 
