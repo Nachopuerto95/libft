@@ -93,19 +93,22 @@ This project is a __C library__ of useful functions that are allowed to be used 
 To compile the library, go to its path and run:
 
 For __basic__ functions:
-```
+
+```shell
 $ make
 ```
 
 For __bonus__ functions:
-```
+
+```shell
 $ make bonus
 ```
 
 ### 2. Cleaning all binary (.o) and executable files (.a)
 
 To delete all files generated with make, go to the path and run:
-```
+
+```shell
 $ make fclean
 ```
 
@@ -120,6 +123,6 @@ $(NAME): $(OBJ)
 ```
 
 then import the library in your code
-```
+```c
 #include "libft.h"
 ```
