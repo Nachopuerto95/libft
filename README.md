@@ -86,9 +86,6 @@ This project is a __C library__ of useful functions that are allowed to be used 
 * [`ft_lstiter`](https://github.com/Nachopuerto95/libft/blob/main/ft_lstiter_bonus.c) - Apply function to content of all list's elements.
 * [`ft_lstmap`](https://github.com/Nachopuerto95/libft/blob/main/ft_lstmap_bonus.c) - Apply function to content of all list's elements into new list.
 
-## Requirements
-The library is written in __C language__ and needs the `gcc` compiler, with `<stdlib.h>` and `<unistd.h>` standard libraries to run.
-
 ## 🛠️ Instructions
 
 ### 1. Compiling the library
