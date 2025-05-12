@@ -16,7 +16,7 @@
 > As the first project of the cursus, it is meant to familiarize us with various functions and how they are designed internally.
 
 ```html
-	🚀 We will solidify our knowledge of memory, both pointer usage and dynamic memory.
+	🚀 We will solidify our knowledge of C usage and memory, both pointer usage and dynamic memory.
 ```
 > [!NOTE]
 > Because of 42 School norm requirements:
