@@ -111,7 +111,15 @@ $ make fclean
 
 ### 3. Using it in your code
 
-To use the library functions in your code, simply include this header:
+To use the library functions in your code, include it in your Makefile:
+
+```Makefile
+$(NAME): $(OBJ)
+	cd libft && $(MAKE)
+	$(CC) $(CFLAGS) $(OBJ)  -L ./libft -lft -o $(NAME)
+```
+
+then import the library in your code
 ```
 #include "libft.h"
 ```
