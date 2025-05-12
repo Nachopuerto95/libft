@@ -17,6 +17,7 @@
 
 ```html
 	🚀 Asentaremos nuestros conocimientos sobre C y la memoria, tanto el uso de punteros como el de memoria dinámica
+	La parte bonus nos servirá tambien para introducirnos al uso de listas enlazadas.
 ```
 
 > [!NOTE]  
