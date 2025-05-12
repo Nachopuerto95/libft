@@ -16,7 +16,7 @@
 > Como primer proyecto del cursus, sirve para conocer diversas funciones y como están diseñadas internamente.
 
 ```html
-	🚀 Asentaremos nuestros conocimientos sobre la memoria, tanto el uso de punteros como el de memoria dinámica
+	🚀 Asentaremos nuestros conocimientos sobre C y la memoria, tanto el uso de punteros como el de memoria dinámica
 ```
 
 > [!NOTE]  
