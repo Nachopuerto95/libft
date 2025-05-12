@@ -8,15 +8,22 @@
  </a>
 </p>
 
-# Push Swap (42cursus)
+# Libft (42cursus)
 
 <img src="https://github.com/Nachopuerto95/multilang/blob/main/42-Madrid%20-%20Edited.jpg">
 
-## 📜 Acerca del Proyecto
+## 📜 About Project
+> As the first project of the cursus, it is meant to familiarize us with various functions and how they are designed internally.
 
 ```html
-	🚀 Para este proyecto, debemos aprender sobre el uso de pilas (stacks) y algoritmos de ordenamiento.
+	🚀 We will solidify our knowledge of memory, both pointer usage and dynamic memory.
 ```
+[!NOTE]
+>Because of 42 School norm requirements:
+> * Each function can't have more than 25 lines of code.
+> * All variables must be declared and aligned at the top of each function.
+> * Project should be created just with allowed functions.
+<br>
 
 > [!NOTE]  
 > Debido a los requisitos de la norma de la Escuela 42:
